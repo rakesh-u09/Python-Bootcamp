@@ -1,1 +1,1 @@
-''' This is a subpackage for handling mathematical operations '''
+''' This is a subpackage for handling mathematical operations and is a subpackage of the packages package'''
