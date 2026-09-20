@@ -1,0 +1,11 @@
+# Virtual environments
+.venv/
+venv/
+env/
+myvenv/
+VENV/
+
+# Common Python cache/build artifacts
+__pycache__/
+*.pyc
+*.pyo
