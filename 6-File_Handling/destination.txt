@@ -1,0 +1,7 @@
+Hello World
+This is the new line
+Append Operation taking place
+Without overriding the previous data of the file
+First line 
+Second line 
+Third line 
